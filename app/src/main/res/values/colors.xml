@@ -7,7 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#C50303</color>
     <color name="input_txt_default_stroke_color" tools:overrise = "true">#296098</color>
-    <color name="blue_shade1">#310268</color>
-    <color name="blue_shade2">#064C6C</color>
+    <color name="blue_shade1">#024B68</color>
+    <color name="blue_shade2">#012A3C</color>
+    <color name="sea_green">#129C50</color>
 </resources>
